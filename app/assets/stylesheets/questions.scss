@@ -1,0 +1,62 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 1%;
+}
+
+div{
+  font-size: 18px;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 0.2%;
+  border-left: 6px solid #c5c6c8;
+  margin-bottom: 3%;
+}
+
+.ask{
+  margin-bottom: 3%;
+}
+
+.answer {
+  background-color: #fdf9c4;
+}
+
+p{
+  font-style: italic;
+}
+
+b{
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+  font-size: 14px;
+  padding-left: 0.2%;
+  color: #84b6f4;
+  font-weight: bold;
+}
+
+.button{
+  width: 5%;
+  background-color: #84b6f4;
+  color: white;
+  font-weight: bold;
+  height: 35px;
+  font-size: 15px;
+  border-color: #84b6f4;
+}
+
+.text{
+  width: 93%;
+  height: 30px;
+}
+
+.redondeado{
+  border-radius: 5px;
+  border: 1px solid #c5c6c8;
+}
